@@ -82,11 +82,6 @@ export default {
   components: {
     CvHeader,
     TimelineItem,
-  },
-  data () {
-    return {
-      msg: 'Welcome to Your Vue.js App'
-    }
   }
 }
 </script>
