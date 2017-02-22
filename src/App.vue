@@ -135,4 +135,18 @@ li {
   margin: 0;
 }
 
+@media screen and (max-width: 1000px) {
+  .content {
+    -webkit-flex-direction: column;
+    -moz-flex-direction: column;
+    -ms-flex-direction: column;
+    -o-flex-direction: column;
+    flex-direction: column;
+  }
+
+  .content ul {
+    margin: 0;
+  }
+}
+
 </style>
