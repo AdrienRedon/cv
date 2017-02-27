@@ -1,6 +1,5 @@
 <template>
     <div class="header">
-        <!-- <img class="picture" src="src/assets/photo.jpg"> -->
         <h1>Adrien REDON</h1>
         <div class="address"> 
             <ul>
